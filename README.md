@@ -14,3 +14,6 @@ $ cd spambrutal
 
 
 $ git clone https://github.com/FAJAR-ZX/spambrutal.git
+
+
+$ python jarlex.py
