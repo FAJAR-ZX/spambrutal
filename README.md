@@ -10,7 +10,7 @@ $ pkg install git
 $ pkg install python 
 
 
-cd spambrutal 
+$ cd spambrutal 
 
 
-git clone https://github.com/FAJAR-ZX/spambrutal.git
+$ git clone https://github.com/FAJAR-ZX/spambrutal.git
